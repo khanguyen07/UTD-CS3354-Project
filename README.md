@@ -25,3 +25,5 @@ Mark messages read or unread.
 Save unsent draft messages.
 Maintain ‘Sent’ messages. 
 
+To UTD students that are or will be taking this class: You can use this project as a reference. Please do not take it and submit it as your own work. Do not plagiarize. 
+
